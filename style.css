@@ -1,0 +1,27 @@
+body {
+    background-color: DarkOrchid;
+    font-family: Verdana;
+  }
+  .userText {
+    color: PaleVioletRed;
+    font-size: 40px;
+  
+    padding: 10px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  .subHeader {
+    padding: 5px;
+    color: HotPink;
+    font-size: 25px;  
+  }
+  .entry {
+    font-size: 20px;
+    color: pink;
+  }
+  .contentType {
+    border: 5px mediumpurple;
+    padding: 10px;
+  }
